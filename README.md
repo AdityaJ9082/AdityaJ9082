@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AdityaJ9082
 - 👀 I’m interested in ML
-- 🌱 I’m currently learning extc
+
+
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
